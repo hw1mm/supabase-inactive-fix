@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Lead Tool Dev Database",
+    "supabase_url": "https://jccvocwtqamqmicikurc.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_1",
+    "table_name": "keep_alive"
+  },
+]
